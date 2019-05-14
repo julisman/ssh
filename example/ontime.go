@@ -1,7 +1,7 @@
 package example
 
 import (
-	"github.com/julisman/ssh/ssh"
+	"github.com/julisman/ssh"
 	"fmt"
 )
 
